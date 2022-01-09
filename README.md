@@ -1,0 +1,3 @@
+-- guivre/faust/cid
+-- <he/him only>
+-- ff and minecraft modding community/plugin dev
