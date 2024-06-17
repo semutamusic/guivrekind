@@ -1,3 +1,3 @@
--- guivre/faust/cid
+-- guivre/faust/mid
 -- <he/him - it/its>
 -- ff and minecraft modding community/plugin dev
